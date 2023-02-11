@@ -1,0 +1,14 @@
+:root {
+  --color-bg: #1e3232;
+  --color-font: #ffffff;
+}
+
+html,
+body {
+  height: 100vh;
+  margin: 0 auto;
+  background-color: var(--color-bg);
+  color: var(--color-font);
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
